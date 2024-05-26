@@ -1,2 +1,2 @@
 # levyathan
-All about Lévy process
+A Python framework for Lévy processes.
